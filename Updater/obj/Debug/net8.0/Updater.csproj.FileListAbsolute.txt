@@ -1,0 +1,16 @@
+C:\Users\kabiskac\Documents\git_contributions\Party.Studio.Soure\Track Studio\bin\Debug\net8.0\Updater.exe
+C:\Users\kabiskac\Documents\git_contributions\Party.Studio.Soure\Track Studio\bin\Debug\net8.0\Updater.deps.json
+C:\Users\kabiskac\Documents\git_contributions\Party.Studio.Soure\Track Studio\bin\Debug\net8.0\Updater.runtimeconfig.json
+C:\Users\kabiskac\Documents\git_contributions\Party.Studio.Soure\Track Studio\bin\Debug\net8.0\Updater.dll
+C:\Users\kabiskac\Documents\git_contributions\Party.Studio.Soure\Track Studio\bin\Debug\net8.0\Updater.pdb
+C:\Users\kabiskac\Documents\git_contributions\Party.Studio.Soure\Updater\obj\Debug\net8.0\Updater.csproj.AssemblyReference.cache
+C:\Users\kabiskac\Documents\git_contributions\Party.Studio.Soure\Updater\obj\Debug\net8.0\Updater.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kabiskac\Documents\git_contributions\Party.Studio.Soure\Updater\obj\Debug\net8.0\Updater.AssemblyInfoInputs.cache
+C:\Users\kabiskac\Documents\git_contributions\Party.Studio.Soure\Updater\obj\Debug\net8.0\Updater.AssemblyInfo.cs
+C:\Users\kabiskac\Documents\git_contributions\Party.Studio.Soure\Updater\obj\Debug\net8.0\Updater.csproj.CoreCompileInputs.cache
+C:\Users\kabiskac\Documents\git_contributions\Party.Studio.Soure\Updater\obj\Debug\net8.0\Updater.csproj.Up2Date
+C:\Users\kabiskac\Documents\git_contributions\Party.Studio.Soure\Updater\obj\Debug\net8.0\Updater.dll
+C:\Users\kabiskac\Documents\git_contributions\Party.Studio.Soure\Updater\obj\Debug\net8.0\refint\Updater.dll
+C:\Users\kabiskac\Documents\git_contributions\Party.Studio.Soure\Updater\obj\Debug\net8.0\Updater.pdb
+C:\Users\kabiskac\Documents\git_contributions\Party.Studio.Soure\Updater\obj\Debug\net8.0\Updater.genruntimeconfig.cache
+C:\Users\kabiskac\Documents\git_contributions\Party.Studio.Soure\Updater\obj\Debug\net8.0\ref\Updater.dll

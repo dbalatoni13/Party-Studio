@@ -1,0 +1,29 @@
+C:\Users\kabiskac\Documents\git_contributions\Party.Studio.Soure\Track Studio\bin\Release\net5.0\plugins\net8.0\Lib\Shaders\BFRES\Bfres.frag
+C:\Users\kabiskac\Documents\git_contributions\Party.Studio.Soure\Track Studio\bin\Release\net5.0\plugins\net8.0\Lib\Shaders\BFRES\Bfres.vert
+C:\Users\kabiskac\Documents\git_contributions\Party.Studio.Soure\Track Studio\bin\Release\net5.0\plugins\net8.0\Lib\Shaders\BFRES\BfresDebug.frag
+C:\Users\kabiskac\Documents\git_contributions\Party.Studio.Soure\Track Studio\bin\Release\net5.0\plugins\net8.0\Lib\Shaders\BFRES\BfresDebug.vert
+C:\Users\kabiskac\Documents\git_contributions\Party.Studio.Soure\Track Studio\bin\Release\net5.0\plugins\net8.0\gctex_v13.dll
+C:\Users\kabiskac\Documents\git_contributions\Party.Studio.Soure\Track Studio\bin\Release\net5.0\plugins\net8.0\gctex_v13.so
+C:\Users\kabiskac\Documents\git_contributions\Party.Studio.Soure\Track Studio\bin\Release\net5.0\plugins\net8.0\gctex_win32.dll
+C:\Users\kabiskac\Documents\git_contributions\Party.Studio.Soure\Track Studio\bin\Release\net5.0\plugins\net8.0\rsmeshopt.dll
+C:\Users\kabiskac\Documents\git_contributions\Party.Studio.Soure\Track Studio\bin\Release\net5.0\plugins\net8.0\rsmeshopt.so
+C:\Users\kabiskac\Documents\git_contributions\Party.Studio.Soure\Track Studio\bin\Release\net5.0\plugins\net8.0\Lib\MP4\W01.txt
+C:\Users\kabiskac\Documents\git_contributions\Party.Studio.Soure\Track Studio\bin\Release\net5.0\plugins\net8.0\Resources\hsbd02_00_cha_irr.dds
+C:\Users\kabiskac\Documents\git_contributions\Party.Studio.Soure\Track Studio\bin\Release\net5.0\plugins\net8.0\Resources\radiance.dds
+C:\Users\kabiskac\Documents\git_contributions\Party.Studio.Soure\Track Studio\bin\Release\net5.0\plugins\net8.0\x64\libzstd.dll
+C:\Users\kabiskac\Documents\git_contributions\Party.Studio.Soure\Track Studio\bin\Release\net5.0\plugins\net8.0\x86\libzstd.dll
+C:\Users\kabiskac\Documents\git_contributions\Party.Studio.Soure\Track Studio\bin\Release\net5.0\plugins\net8.0\PartyStudioPlugin.deps.json
+C:\Users\kabiskac\Documents\git_contributions\Party.Studio.Soure\Track Studio\bin\Release\net5.0\plugins\net8.0\PartyStudioPlugin.dll
+C:\Users\kabiskac\Documents\git_contributions\Party.Studio.Soure\Track Studio\bin\Release\net5.0\plugins\net8.0\PartyStudioPlugin.pdb
+C:\Users\kabiskac\Documents\git_contributions\Party.Studio.Soure\Plugins\PartyStudio\obj\Release\net8.0\PartyStudioPlugin.csproj.AssemblyReference.cache
+C:\Users\kabiskac\Documents\git_contributions\Party.Studio.Soure\Plugins\PartyStudio\obj\Release\net8.0\PartyStudioPlugin.Properties.Resources.resources
+C:\Users\kabiskac\Documents\git_contributions\Party.Studio.Soure\Plugins\PartyStudio\obj\Release\net8.0\PartyStudioPlugin.csproj.GenerateResource.cache
+C:\Users\kabiskac\Documents\git_contributions\Party.Studio.Soure\Plugins\PartyStudio\obj\Release\net8.0\PartyStudioPlugin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kabiskac\Documents\git_contributions\Party.Studio.Soure\Plugins\PartyStudio\obj\Release\net8.0\PartyStudioPlugin.AssemblyInfoInputs.cache
+C:\Users\kabiskac\Documents\git_contributions\Party.Studio.Soure\Plugins\PartyStudio\obj\Release\net8.0\PartyStudioPlugin.AssemblyInfo.cs
+C:\Users\kabiskac\Documents\git_contributions\Party.Studio.Soure\Plugins\PartyStudio\obj\Release\net8.0\PartyStudioPlugin.csproj.CoreCompileInputs.cache
+C:\Users\kabiskac\Documents\git_contributions\Party.Studio.Soure\Plugins\PartyStudio\obj\Release\net8.0\PartyStu.9AF8D575.Up2Date
+C:\Users\kabiskac\Documents\git_contributions\Party.Studio.Soure\Plugins\PartyStudio\obj\Release\net8.0\PartyStudioPlugin.dll
+C:\Users\kabiskac\Documents\git_contributions\Party.Studio.Soure\Plugins\PartyStudio\obj\Release\net8.0\refint\PartyStudioPlugin.dll
+C:\Users\kabiskac\Documents\git_contributions\Party.Studio.Soure\Plugins\PartyStudio\obj\Release\net8.0\PartyStudioPlugin.pdb
+C:\Users\kabiskac\Documents\git_contributions\Party.Studio.Soure\Plugins\PartyStudio\obj\Release\net8.0\ref\PartyStudioPlugin.dll

@@ -1,0 +1,7 @@
+C:\Users\Nathan\Documents\GitHub\MkwiiTrackStudio\MapStudio.UI\obj\Debug\net5.0\MapStudio.UI.csproj.AssemblyReference.cache
+C:\Users\Nathan\Documents\GitHub\MkwiiTrackStudio\MapStudio.UI\obj\Debug\net5.0\MapStudio.UI.Properties.Resources.resources
+C:\Users\Nathan\Documents\GitHub\MkwiiTrackStudio\MapStudio.UI\obj\Debug\net5.0\MapStudio.UI.csproj.GenerateResource.cache
+C:\Users\Nathan\Documents\GitHub\MkwiiTrackStudio\MapStudio.UI\obj\Debug\net5.0\MapStudio.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nathan\Documents\GitHub\MkwiiTrackStudio\MapStudio.UI\obj\Debug\net5.0\MapStudio.UI.AssemblyInfoInputs.cache
+C:\Users\Nathan\Documents\GitHub\MkwiiTrackStudio\MapStudio.UI\obj\Debug\net5.0\MapStudio.UI.AssemblyInfo.cs
+C:\Users\Nathan\Documents\GitHub\MkwiiTrackStudio\MapStudio.UI\obj\Debug\net5.0\MapStudio.UI.csproj.CoreCompileInputs.cache

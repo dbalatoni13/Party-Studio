@@ -1,0 +1,2 @@
+C:\Users\kabiskac\Documents\git_contributions\marioparty4\build\releasex86\GMPE01_00\files\data\title.bin
+C:\Users\kabiskac\Documents\git_contributions\marioparty4\orig\GMPE01_00\files\data\title.bin

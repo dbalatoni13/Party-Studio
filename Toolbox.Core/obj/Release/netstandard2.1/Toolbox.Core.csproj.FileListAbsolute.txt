@@ -1,0 +1,17 @@
+C:\Users\kabiskac\Documents\git_contributions\Party.Studio.Soure\Toolbox.Core\bin\Release\netstandard2.1\Toolbox.Core.deps.json
+C:\Users\kabiskac\Documents\git_contributions\Party.Studio.Soure\Toolbox.Core\bin\Release\netstandard2.1\Toolbox.Core.dll
+C:\Users\kabiskac\Documents\git_contributions\Party.Studio.Soure\Toolbox.Core\bin\Release\netstandard2.1\Toolbox.Core.pdb
+C:\Users\kabiskac\Documents\git_contributions\Party.Studio.Soure\Toolbox.Core\bin\Release\netstandard2.1\IONET.dll
+C:\Users\kabiskac\Documents\git_contributions\Party.Studio.Soure\Toolbox.Core\bin\Release\netstandard2.1\OpenTK.dll
+C:\Users\kabiskac\Documents\git_contributions\Party.Studio.Soure\Toolbox.Core\bin\Release\netstandard2.1\Syroot.BinaryData.dll
+C:\Users\kabiskac\Documents\git_contributions\Party.Studio.Soure\Toolbox.Core\bin\Release\netstandard2.1\Syroot.Maths.dll
+C:\Users\kabiskac\Documents\git_contributions\Party.Studio.Soure\Toolbox.Core\obj\Release\netstandard2.1\Toolbox.Core.csproj.AssemblyReference.cache
+C:\Users\kabiskac\Documents\git_contributions\Party.Studio.Soure\Toolbox.Core\obj\Release\netstandard2.1\Toolbox.Core.Properties.Resources.resources
+C:\Users\kabiskac\Documents\git_contributions\Party.Studio.Soure\Toolbox.Core\obj\Release\netstandard2.1\Toolbox.Core.csproj.GenerateResource.cache
+C:\Users\kabiskac\Documents\git_contributions\Party.Studio.Soure\Toolbox.Core\obj\Release\netstandard2.1\Toolbox.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kabiskac\Documents\git_contributions\Party.Studio.Soure\Toolbox.Core\obj\Release\netstandard2.1\Toolbox.Core.AssemblyInfoInputs.cache
+C:\Users\kabiskac\Documents\git_contributions\Party.Studio.Soure\Toolbox.Core\obj\Release\netstandard2.1\Toolbox.Core.AssemblyInfo.cs
+C:\Users\kabiskac\Documents\git_contributions\Party.Studio.Soure\Toolbox.Core\obj\Release\netstandard2.1\Toolbox.Core.csproj.CoreCompileInputs.cache
+C:\Users\kabiskac\Documents\git_contributions\Party.Studio.Soure\Toolbox.Core\obj\Release\netstandard2.1\Toolbox..7F4D7A2D.Up2Date
+C:\Users\kabiskac\Documents\git_contributions\Party.Studio.Soure\Toolbox.Core\obj\Release\netstandard2.1\Toolbox.Core.dll
+C:\Users\kabiskac\Documents\git_contributions\Party.Studio.Soure\Toolbox.Core\obj\Release\netstandard2.1\Toolbox.Core.pdb

@@ -1,0 +1,23 @@
+C:\Users\Nathan\Documents\GitHub\Track-Studio\Track Studio\bin\Debug\net5.0\Plugins\net5.0\Lib\Shaders\BFRES\Bfres.frag
+C:\Users\Nathan\Documents\GitHub\Track-Studio\Track Studio\bin\Debug\net5.0\Plugins\net5.0\Lib\Shaders\BFRES\Bfres.vert
+C:\Users\Nathan\Documents\GitHub\Track-Studio\Track Studio\bin\Debug\net5.0\Plugins\net5.0\Lib\Shaders\BFRES\BfresDebug.frag
+C:\Users\Nathan\Documents\GitHub\Track-Studio\Track Studio\bin\Debug\net5.0\Plugins\net5.0\Lib\Shaders\BFRES\BfresDebug.vert
+C:\Users\Nathan\Documents\GitHub\Track-Studio\Track Studio\bin\Debug\net5.0\Plugins\net5.0\CafeLibrary.deps.json
+C:\Users\Nathan\Documents\GitHub\Track-Studio\Track Studio\bin\Debug\net5.0\Plugins\net5.0\CafeLibrary.dll
+C:\Users\Nathan\Documents\GitHub\Track-Studio\Track Studio\bin\Debug\net5.0\Plugins\net5.0\CafeLibrary.pdb
+C:\Users\Nathan\Documents\GitHub\Track-Studio\Plugins\CafeLibrary\obj\Debug\net5.0\CafeLibrary.csproj.AssemblyReference.cache
+C:\Users\Nathan\Documents\GitHub\Track-Studio\Plugins\CafeLibrary\obj\Debug\net5.0\CafeLibrary.Properties.Resources.resources
+C:\Users\Nathan\Documents\GitHub\Track-Studio\Plugins\CafeLibrary\obj\Debug\net5.0\CafeLibrary.csproj.GenerateResource.cache
+C:\Users\Nathan\Documents\GitHub\Track-Studio\Plugins\CafeLibrary\obj\Debug\net5.0\CafeLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nathan\Documents\GitHub\Track-Studio\Plugins\CafeLibrary\obj\Debug\net5.0\CafeLibrary.AssemblyInfoInputs.cache
+C:\Users\Nathan\Documents\GitHub\Track-Studio\Plugins\CafeLibrary\obj\Debug\net5.0\CafeLibrary.AssemblyInfo.cs
+C:\Users\Nathan\Documents\GitHub\Track-Studio\Plugins\CafeLibrary\obj\Debug\net5.0\CafeLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Nathan\Documents\GitHub\Track-Studio\Plugins\CafeLibrary\obj\Debug\net5.0\CafeLibrary.csproj.CopyComplete
+C:\Users\Nathan\Documents\GitHub\Track-Studio\Plugins\CafeLibrary\obj\Debug\net5.0\CafeLibrary.dll
+C:\Users\Nathan\Documents\GitHub\Track-Studio\Plugins\CafeLibrary\obj\Debug\net5.0\refint\CafeLibrary.dll
+C:\Users\Nathan\Documents\GitHub\Track-Studio\Plugins\CafeLibrary\obj\Debug\net5.0\CafeLibrary.pdb
+C:\Users\Nathan\Documents\GitHub\Track-Studio\Plugins\CafeLibrary\obj\Debug\net5.0\ref\CafeLibrary.dll
+C:\Users\Nathan\Documents\GitHub\Track-Studio\Plugins\CafeLibrary\obj\Debug\net5.0\CafeLibrary.sourcelink.json
+C:\Users\Nathan\Documents\GitHub\CovenEsmeSPICA\Party-Studio\Plugins\CafeLibrary\obj\Debug\net5.0\CafeLibrary.dll
+C:\Users\Nathan\Documents\GitHub\CovenEsmeSPICA\Party-Studio\Plugins\CafeLibrary\obj\Debug\net5.0\refint\CafeLibrary.dll
+C:\Users\Nathan\Documents\GitHub\CovenEsmeSPICA\Party-Studio\Plugins\CafeLibrary\obj\Debug\net5.0\CafeLibrary.pdb

@@ -1,0 +1,27 @@
+{
+  "BoardFileList": {
+    "w01": "Toad's Midway Madness",
+    "w02": "Goomba's Greedy Gala",
+    "w03": "Shy Guy's Jungle Jam",
+    "w04": "Boo's Haunted Bash",
+    "w05": "Koopa's Seaside Soiree",
+    "w06": "Bowser's Gnarly Party",
+    "w20": "Mega Board Mayhem",
+    "w21": "Mini Board Mad-Dash"
+  },
+  "PlayerFileList": {
+    "mario": "Mario",
+    "luigi": "Luigi",
+    "peach": "Peach",
+    "daisy": "Daisy",
+    "wario": "Wario",
+    "waluigi": "Waluigi",
+    "dk": "DK",
+    "yoshi": "Yoshi"
+  },
+  "PlayerMotionList": {
+    "0": "Idle"
+  },
+  "GamePath": "",
+  "Version": 3
+}

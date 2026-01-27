@@ -1,0 +1,325 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\kabiskac\\Documents\\git_contributions\\Party.Studio.Soure\\Plugins\\CafeLibrary\\CafeLibrary.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\kabiskac\\Documents\\git_contributions\\Party.Studio.Soure\\GLFrameworkEngine\\GLFrameworkEngine.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kabiskac\\Documents\\git_contributions\\Party.Studio.Soure\\GLFrameworkEngine\\GLFrameworkEngine.csproj",
+        "projectName": "GLFrameworkEngine",
+        "projectPath": "C:\\Users\\kabiskac\\Documents\\git_contributions\\Party.Studio.Soure\\GLFrameworkEngine\\GLFrameworkEngine.csproj",
+        "packagesPath": "C:\\Users\\kabiskac\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kabiskac\\Documents\\git_contributions\\Party.Studio.Soure\\GLFrameworkEngine\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kabiskac\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.myget.org/F/drutol/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\kabiskac\\Documents\\git_contributions\\Party.Studio.Soure\\Toolbox.Core\\Toolbox.Core.csproj": {
+                "projectPath": "C:\\Users\\kabiskac\\Documents\\git_contributions\\Party.Studio.Soure\\Toolbox.Core\\Toolbox.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "SixLabors.ImageSharp": {
+              "target": "Package",
+              "version": "[2.1.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\kabiskac\\Documents\\git_contributions\\Party.Studio.Soure\\MapStudio.UI\\MapStudio.UI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kabiskac\\Documents\\git_contributions\\Party.Studio.Soure\\MapStudio.UI\\MapStudio.UI.csproj",
+        "projectName": "MapStudioUI",
+        "projectPath": "C:\\Users\\kabiskac\\Documents\\git_contributions\\Party.Studio.Soure\\MapStudio.UI\\MapStudio.UI.csproj",
+        "packagesPath": "C:\\Users\\kabiskac\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kabiskac\\Documents\\git_contributions\\Party.Studio.Soure\\MapStudio.UI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kabiskac\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.myget.org/F/drutol/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\kabiskac\\Documents\\git_contributions\\Party.Studio.Soure\\GLFrameworkEngine\\GLFrameworkEngine.csproj": {
+                "projectPath": "C:\\Users\\kabiskac\\Documents\\git_contributions\\Party.Studio.Soure\\GLFrameworkEngine\\GLFrameworkEngine.csproj"
+              },
+              "C:\\Users\\kabiskac\\Documents\\git_contributions\\Party.Studio.Soure\\Toolbox.Core\\Toolbox.Core.csproj": {
+                "projectPath": "C:\\Users\\kabiskac\\Documents\\git_contributions\\Party.Studio.Soure\\Toolbox.Core\\Toolbox.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Discord.Net.Webhook": {
+              "target": "Package",
+              "version": "[3.3.2, )"
+            },
+            "Octokit": {
+              "target": "Package",
+              "version": "[0.50.0, )"
+            },
+            "SharpEXR": {
+              "target": "Package",
+              "version": "[1.0.0.19, )"
+            },
+            "SixLabors.ImageSharp": {
+              "target": "Package",
+              "version": "[2.1.3, )"
+            },
+            "System.Drawing.Common": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            },
+            "System.Runtime.CompilerServices.Unsafe": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\kabiskac\\Documents\\git_contributions\\Party.Studio.Soure\\Plugins\\CafeLibrary\\CafeLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kabiskac\\Documents\\git_contributions\\Party.Studio.Soure\\Plugins\\CafeLibrary\\CafeLibrary.csproj",
+        "projectName": "CafeLibrary",
+        "projectPath": "C:\\Users\\kabiskac\\Documents\\git_contributions\\Party.Studio.Soure\\Plugins\\CafeLibrary\\CafeLibrary.csproj",
+        "packagesPath": "C:\\Users\\kabiskac\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kabiskac\\Documents\\git_contributions\\Party.Studio.Soure\\Plugins\\CafeLibrary\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kabiskac\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.myget.org/F/drutol/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\kabiskac\\Documents\\git_contributions\\Party.Studio.Soure\\GLFrameworkEngine\\GLFrameworkEngine.csproj": {
+                "projectPath": "C:\\Users\\kabiskac\\Documents\\git_contributions\\Party.Studio.Soure\\GLFrameworkEngine\\GLFrameworkEngine.csproj"
+              },
+              "C:\\Users\\kabiskac\\Documents\\git_contributions\\Party.Studio.Soure\\MapStudio.UI\\MapStudio.UI.csproj": {
+                "projectPath": "C:\\Users\\kabiskac\\Documents\\git_contributions\\Party.Studio.Soure\\MapStudio.UI\\MapStudio.UI.csproj"
+              },
+              "C:\\Users\\kabiskac\\Documents\\git_contributions\\Party.Studio.Soure\\Toolbox.Core\\Toolbox.Core.csproj": {
+                "projectPath": "C:\\Users\\kabiskac\\Documents\\git_contributions\\Party.Studio.Soure\\Toolbox.Core\\Toolbox.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "ZstdSharp.Port": {
+              "target": "Package",
+              "version": "[0.7.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\kabiskac\\Documents\\git_contributions\\Party.Studio.Soure\\Toolbox.Core\\Toolbox.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kabiskac\\Documents\\git_contributions\\Party.Studio.Soure\\Toolbox.Core\\Toolbox.Core.csproj",
+        "projectName": "Toolbox.Core",
+        "projectPath": "C:\\Users\\kabiskac\\Documents\\git_contributions\\Party.Studio.Soure\\Toolbox.Core\\Toolbox.Core.csproj",
+        "packagesPath": "C:\\Users\\kabiskac\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kabiskac\\Documents\\git_contributions\\Party.Studio.Soure\\Toolbox.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kabiskac\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.myget.org/F/drutol/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "System.Drawing.Common": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

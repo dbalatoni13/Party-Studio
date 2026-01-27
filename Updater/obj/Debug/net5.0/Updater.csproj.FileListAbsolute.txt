@@ -1,0 +1,35 @@
+C:\Users\Nathan\Documents\GitHub\CovenEsmeSPICA\Party-Studio2\Track Studio\bin\Debug\net5.0\Updater.exe
+C:\Users\Nathan\Documents\GitHub\CovenEsmeSPICA\Party-Studio2\Track Studio\bin\Debug\net5.0\Updater.deps.json
+C:\Users\Nathan\Documents\GitHub\CovenEsmeSPICA\Party-Studio2\Track Studio\bin\Debug\net5.0\Updater.runtimeconfig.json
+C:\Users\Nathan\Documents\GitHub\CovenEsmeSPICA\Party-Studio2\Track Studio\bin\Debug\net5.0\Updater.runtimeconfig.dev.json
+C:\Users\Nathan\Documents\GitHub\CovenEsmeSPICA\Party-Studio2\Track Studio\bin\Debug\net5.0\Updater.dll
+C:\Users\Nathan\Documents\GitHub\CovenEsmeSPICA\Party-Studio2\Track Studio\bin\Debug\net5.0\Updater.pdb
+C:\Users\Nathan\Documents\GitHub\CovenEsmeSPICA\Party-Studio2\Updater\obj\Debug\net5.0\Updater.csproj.AssemblyReference.cache
+C:\Users\Nathan\Documents\GitHub\CovenEsmeSPICA\Party-Studio2\Updater\obj\Debug\net5.0\Updater.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nathan\Documents\GitHub\CovenEsmeSPICA\Party-Studio2\Updater\obj\Debug\net5.0\Updater.AssemblyInfoInputs.cache
+C:\Users\Nathan\Documents\GitHub\CovenEsmeSPICA\Party-Studio2\Updater\obj\Debug\net5.0\Updater.AssemblyInfo.cs
+C:\Users\Nathan\Documents\GitHub\CovenEsmeSPICA\Party-Studio2\Updater\obj\Debug\net5.0\Updater.csproj.CoreCompileInputs.cache
+C:\Users\Nathan\Documents\GitHub\CovenEsmeSPICA\Party-Studio2\Updater\obj\Debug\net5.0\Updater.csproj.CopyComplete
+C:\Users\Nathan\Documents\GitHub\CovenEsmeSPICA\Party-Studio2\Updater\obj\Debug\net5.0\Updater.dll
+C:\Users\Nathan\Documents\GitHub\CovenEsmeSPICA\Party-Studio2\Updater\obj\Debug\net5.0\refint\Updater.dll
+C:\Users\Nathan\Documents\GitHub\CovenEsmeSPICA\Party-Studio2\Updater\obj\Debug\net5.0\Updater.pdb
+C:\Users\Nathan\Documents\GitHub\CovenEsmeSPICA\Party-Studio2\Updater\obj\Debug\net5.0\Updater.genruntimeconfig.cache
+C:\Users\Nathan\Documents\GitHub\CovenEsmeSPICA\Party-Studio2\Updater\obj\Debug\net5.0\ref\Updater.dll
+C:\Users\Nathan\Documents\GitHub\CovenEsmeSPICA\Party-Studio\Track Studio\bin\Debug\net5.0\Updater.exe
+C:\Users\Nathan\Documents\GitHub\CovenEsmeSPICA\Party-Studio\Track Studio\bin\Debug\net5.0\Updater.deps.json
+C:\Users\Nathan\Documents\GitHub\CovenEsmeSPICA\Party-Studio\Track Studio\bin\Debug\net5.0\Updater.runtimeconfig.json
+C:\Users\Nathan\Documents\GitHub\CovenEsmeSPICA\Party-Studio\Track Studio\bin\Debug\net5.0\Updater.runtimeconfig.dev.json
+C:\Users\Nathan\Documents\GitHub\CovenEsmeSPICA\Party-Studio\Track Studio\bin\Debug\net5.0\Updater.dll
+C:\Users\Nathan\Documents\GitHub\CovenEsmeSPICA\Party-Studio\Track Studio\bin\Debug\net5.0\Updater.pdb
+C:\Users\Nathan\Documents\GitHub\CovenEsmeSPICA\Party-Studio\Updater\obj\Debug\net5.0\Updater.csproj.AssemblyReference.cache
+C:\Users\Nathan\Documents\GitHub\CovenEsmeSPICA\Party-Studio\Updater\obj\Debug\net5.0\Updater.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nathan\Documents\GitHub\CovenEsmeSPICA\Party-Studio\Updater\obj\Debug\net5.0\Updater.AssemblyInfoInputs.cache
+C:\Users\Nathan\Documents\GitHub\CovenEsmeSPICA\Party-Studio\Updater\obj\Debug\net5.0\Updater.AssemblyInfo.cs
+C:\Users\Nathan\Documents\GitHub\CovenEsmeSPICA\Party-Studio\Updater\obj\Debug\net5.0\Updater.csproj.CoreCompileInputs.cache
+C:\Users\Nathan\Documents\GitHub\CovenEsmeSPICA\Party-Studio\Updater\obj\Debug\net5.0\Updater.sourcelink.json
+C:\Users\Nathan\Documents\GitHub\CovenEsmeSPICA\Party-Studio\Updater\obj\Debug\net5.0\Updater.csproj.CopyComplete
+C:\Users\Nathan\Documents\GitHub\CovenEsmeSPICA\Party-Studio\Updater\obj\Debug\net5.0\Updater.dll
+C:\Users\Nathan\Documents\GitHub\CovenEsmeSPICA\Party-Studio\Updater\obj\Debug\net5.0\refint\Updater.dll
+C:\Users\Nathan\Documents\GitHub\CovenEsmeSPICA\Party-Studio\Updater\obj\Debug\net5.0\Updater.pdb
+C:\Users\Nathan\Documents\GitHub\CovenEsmeSPICA\Party-Studio\Updater\obj\Debug\net5.0\Updater.genruntimeconfig.cache
+C:\Users\Nathan\Documents\GitHub\CovenEsmeSPICA\Party-Studio\Updater\obj\Debug\net5.0\ref\Updater.dll

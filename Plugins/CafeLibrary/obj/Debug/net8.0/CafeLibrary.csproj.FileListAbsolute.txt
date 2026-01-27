@@ -1,0 +1,19 @@
+C:\Users\kabiskac\Documents\git_contributions\Party.Studio.Soure\Track Studio\bin\Debug\net5.0\Plugins\net8.0\Lib\Shaders\BFRES\Bfres.frag
+C:\Users\kabiskac\Documents\git_contributions\Party.Studio.Soure\Track Studio\bin\Debug\net5.0\Plugins\net8.0\Lib\Shaders\BFRES\Bfres.vert
+C:\Users\kabiskac\Documents\git_contributions\Party.Studio.Soure\Track Studio\bin\Debug\net5.0\Plugins\net8.0\Lib\Shaders\BFRES\BfresDebug.frag
+C:\Users\kabiskac\Documents\git_contributions\Party.Studio.Soure\Track Studio\bin\Debug\net5.0\Plugins\net8.0\Lib\Shaders\BFRES\BfresDebug.vert
+C:\Users\kabiskac\Documents\git_contributions\Party.Studio.Soure\Track Studio\bin\Debug\net5.0\Plugins\net8.0\CafeLibrary.deps.json
+C:\Users\kabiskac\Documents\git_contributions\Party.Studio.Soure\Track Studio\bin\Debug\net5.0\Plugins\net8.0\CafeLibrary.dll
+C:\Users\kabiskac\Documents\git_contributions\Party.Studio.Soure\Track Studio\bin\Debug\net5.0\Plugins\net8.0\CafeLibrary.pdb
+C:\Users\kabiskac\Documents\git_contributions\Party.Studio.Soure\Plugins\CafeLibrary\obj\Debug\net8.0\CafeLibrary.csproj.AssemblyReference.cache
+C:\Users\kabiskac\Documents\git_contributions\Party.Studio.Soure\Plugins\CafeLibrary\obj\Debug\net8.0\CafeLibrary.Properties.Resources.resources
+C:\Users\kabiskac\Documents\git_contributions\Party.Studio.Soure\Plugins\CafeLibrary\obj\Debug\net8.0\CafeLibrary.csproj.GenerateResource.cache
+C:\Users\kabiskac\Documents\git_contributions\Party.Studio.Soure\Plugins\CafeLibrary\obj\Debug\net8.0\CafeLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kabiskac\Documents\git_contributions\Party.Studio.Soure\Plugins\CafeLibrary\obj\Debug\net8.0\CafeLibrary.AssemblyInfoInputs.cache
+C:\Users\kabiskac\Documents\git_contributions\Party.Studio.Soure\Plugins\CafeLibrary\obj\Debug\net8.0\CafeLibrary.AssemblyInfo.cs
+C:\Users\kabiskac\Documents\git_contributions\Party.Studio.Soure\Plugins\CafeLibrary\obj\Debug\net8.0\CafeLibrary.csproj.CoreCompileInputs.cache
+C:\Users\kabiskac\Documents\git_contributions\Party.Studio.Soure\Plugins\CafeLibrary\obj\Debug\net8.0\CafeLibr.02E68240.Up2Date
+C:\Users\kabiskac\Documents\git_contributions\Party.Studio.Soure\Plugins\CafeLibrary\obj\Debug\net8.0\CafeLibrary.dll
+C:\Users\kabiskac\Documents\git_contributions\Party.Studio.Soure\Plugins\CafeLibrary\obj\Debug\net8.0\refint\CafeLibrary.dll
+C:\Users\kabiskac\Documents\git_contributions\Party.Studio.Soure\Plugins\CafeLibrary\obj\Debug\net8.0\CafeLibrary.pdb
+C:\Users\kabiskac\Documents\git_contributions\Party.Studio.Soure\Plugins\CafeLibrary\obj\Debug\net8.0\ref\CafeLibrary.dll

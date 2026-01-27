@@ -1,0 +1,40 @@
+C:\Users\Nathan\Documents\GitHub\CovenEsmeSPICA\Party-Studio\Plugins\PartyStudio\obj\Debug\net5.0\PartyStudioPlugin.csproj.AssemblyReference.cache
+C:\Users\Nathan\Documents\GitHub\CovenEsmeSPICA\Party-Studio\Plugins\PartyStudio\obj\Debug\net5.0\PartyStudioPlugin.Properties.Resources.resources
+C:\Users\Nathan\Documents\GitHub\CovenEsmeSPICA\Party-Studio\Plugins\PartyStudio\obj\Debug\net5.0\PartyStudioPlugin.csproj.GenerateResource.cache
+C:\Users\Nathan\Documents\GitHub\CovenEsmeSPICA\Party-Studio\Plugins\PartyStudio\obj\Debug\net5.0\PartyStudioPlugin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nathan\Documents\GitHub\CovenEsmeSPICA\Party-Studio\Plugins\PartyStudio\obj\Debug\net5.0\PartyStudioPlugin.AssemblyInfoInputs.cache
+C:\Users\Nathan\Documents\GitHub\CovenEsmeSPICA\Party-Studio\Plugins\PartyStudio\obj\Debug\net5.0\PartyStudioPlugin.AssemblyInfo.cs
+C:\Users\Nathan\Documents\GitHub\CovenEsmeSPICA\Party-Studio\Plugins\PartyStudio\obj\Debug\net5.0\PartyStudioPlugin.csproj.CoreCompileInputs.cache
+C:\Users\Nathan\Documents\GitHub\CovenEsmeSPICA\Party-Studio\Track Studio\bin\Debug\net5.0\plugins\net5.0\Resources\hsbd02_00_cha_irr.dds
+C:\Users\Nathan\Documents\GitHub\CovenEsmeSPICA\Party-Studio\Track Studio\bin\Debug\net5.0\plugins\net5.0\Resources\radiance.dds
+C:\Users\Nathan\Documents\GitHub\CovenEsmeSPICA\Party-Studio\Track Studio\bin\Debug\net5.0\plugins\net5.0\x64\libzstd.dll
+C:\Users\Nathan\Documents\GitHub\CovenEsmeSPICA\Party-Studio\Track Studio\bin\Debug\net5.0\plugins\net5.0\x86\libzstd.dll
+C:\Users\Nathan\Documents\GitHub\CovenEsmeSPICA\Party-Studio\Track Studio\bin\Debug\net5.0\plugins\net5.0\PartyStudioPlugin.deps.json
+C:\Users\Nathan\Documents\GitHub\CovenEsmeSPICA\Party-Studio\Track Studio\bin\Debug\net5.0\plugins\net5.0\PartyStudioPlugin.dll
+C:\Users\Nathan\Documents\GitHub\CovenEsmeSPICA\Party-Studio\Track Studio\bin\Debug\net5.0\plugins\net5.0\PartyStudioPlugin.pdb
+C:\Users\Nathan\Documents\GitHub\CovenEsmeSPICA\Party-Studio\Plugins\PartyStudio\obj\Debug\net5.0\PartyStudioPlugin.csproj.CopyComplete
+C:\Users\Nathan\Documents\GitHub\CovenEsmeSPICA\Party-Studio\Plugins\PartyStudio\obj\Debug\net5.0\PartyStudioPlugin.dll
+C:\Users\Nathan\Documents\GitHub\CovenEsmeSPICA\Party-Studio\Plugins\PartyStudio\obj\Debug\net5.0\refint\PartyStudioPlugin.dll
+C:\Users\Nathan\Documents\GitHub\CovenEsmeSPICA\Party-Studio\Plugins\PartyStudio\obj\Debug\net5.0\PartyStudioPlugin.pdb
+C:\Users\Nathan\Documents\GitHub\CovenEsmeSPICA\Party-Studio\Plugins\PartyStudio\obj\Debug\net5.0\ref\PartyStudioPlugin.dll
+C:\Users\Nathan\Documents\GitHub\CovenEsmeSPICA\Party-Studio2\Track Studio\bin\Debug\net5.0\plugins\net5.0\Resources\hsbd02_00_cha_irr.dds
+C:\Users\Nathan\Documents\GitHub\CovenEsmeSPICA\Party-Studio2\Track Studio\bin\Debug\net5.0\plugins\net5.0\Resources\radiance.dds
+C:\Users\Nathan\Documents\GitHub\CovenEsmeSPICA\Party-Studio2\Track Studio\bin\Debug\net5.0\plugins\net5.0\x64\libzstd.dll
+C:\Users\Nathan\Documents\GitHub\CovenEsmeSPICA\Party-Studio2\Track Studio\bin\Debug\net5.0\plugins\net5.0\x86\libzstd.dll
+C:\Users\Nathan\Documents\GitHub\CovenEsmeSPICA\Party-Studio2\Track Studio\bin\Debug\net5.0\plugins\net5.0\PartyStudioPlugin.deps.json
+C:\Users\Nathan\Documents\GitHub\CovenEsmeSPICA\Party-Studio2\Track Studio\bin\Debug\net5.0\plugins\net5.0\PartyStudioPlugin.dll
+C:\Users\Nathan\Documents\GitHub\CovenEsmeSPICA\Party-Studio2\Track Studio\bin\Debug\net5.0\plugins\net5.0\PartyStudioPlugin.pdb
+C:\Users\Nathan\Documents\GitHub\CovenEsmeSPICA\Party-Studio2\Plugins\PartyStudio\obj\Debug\net5.0\PartyStudioPlugin.csproj.AssemblyReference.cache
+C:\Users\Nathan\Documents\GitHub\CovenEsmeSPICA\Party-Studio2\Plugins\PartyStudio\obj\Debug\net5.0\PartyStudioPlugin.Properties.Resources.resources
+C:\Users\Nathan\Documents\GitHub\CovenEsmeSPICA\Party-Studio2\Plugins\PartyStudio\obj\Debug\net5.0\PartyStudioPlugin.csproj.GenerateResource.cache
+C:\Users\Nathan\Documents\GitHub\CovenEsmeSPICA\Party-Studio2\Plugins\PartyStudio\obj\Debug\net5.0\PartyStudioPlugin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nathan\Documents\GitHub\CovenEsmeSPICA\Party-Studio2\Plugins\PartyStudio\obj\Debug\net5.0\PartyStudioPlugin.AssemblyInfoInputs.cache
+C:\Users\Nathan\Documents\GitHub\CovenEsmeSPICA\Party-Studio2\Plugins\PartyStudio\obj\Debug\net5.0\PartyStudioPlugin.AssemblyInfo.cs
+C:\Users\Nathan\Documents\GitHub\CovenEsmeSPICA\Party-Studio2\Plugins\PartyStudio\obj\Debug\net5.0\PartyStudioPlugin.csproj.CoreCompileInputs.cache
+C:\Users\Nathan\Documents\GitHub\CovenEsmeSPICA\Party-Studio2\Plugins\PartyStudio\obj\Debug\net5.0\PartyStudioPlugin.csproj.CopyComplete
+C:\Users\Nathan\Documents\GitHub\CovenEsmeSPICA\Party-Studio2\Plugins\PartyStudio\obj\Debug\net5.0\PartyStudioPlugin.dll
+C:\Users\Nathan\Documents\GitHub\CovenEsmeSPICA\Party-Studio2\Plugins\PartyStudio\obj\Debug\net5.0\refint\PartyStudioPlugin.dll
+C:\Users\Nathan\Documents\GitHub\CovenEsmeSPICA\Party-Studio2\Plugins\PartyStudio\obj\Debug\net5.0\PartyStudioPlugin.pdb
+C:\Users\Nathan\Documents\GitHub\CovenEsmeSPICA\Party-Studio2\Plugins\PartyStudio\obj\Debug\net5.0\ref\PartyStudioPlugin.dll
+C:\Users\Nathan\Documents\GitHub\CovenEsmeSPICA\Party-Studio2\Track Studio\bin\Debug\net5.0\plugins\net5.0\Lib\MP4\W01.txt
+C:\Users\Nathan\Documents\GitHub\CovenEsmeSPICA\Party-Studio\Track Studio\bin\Debug\net5.0\plugins\net5.0\Lib\MP4\W01.txt

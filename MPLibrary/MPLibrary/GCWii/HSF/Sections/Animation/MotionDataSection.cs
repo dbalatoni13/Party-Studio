@@ -180,13 +180,39 @@ namespace MPLibrary.GCN
     {
         public List<HSFMotionAnimation> Animations = new List<HSFMotionAnimation>();
 
+        private static bool TryGetGroupStringName(AnimationNode group, out string name)
+        {
+            name = null;
+            if (group == null)
+                return false;
+
+            string combined = $"{group.Mode}_{group.ValueIndex}";
+            if (string.Equals(group.Name, combined, StringComparison.Ordinal))
+                return false;
+
+            name = group.Name ?? string.Empty;
+
+            if (group.ValueIndex > 0)
+            {
+                string suffix = "_" + group.ValueIndex;
+                if (name.EndsWith(suffix, StringComparison.Ordinal))
+                    name = name.Substring(0, name.Length - suffix.Length);
+            }
+
+            return name.Length > 0;
+        }
+
         public List<string> GetStrings()
         {
             List<string> values = new List<string>();
-            foreach (var anim in Animations) {
+
+            foreach (var anim in Animations)
+            {
                 foreach (AnimationNode group in anim.AnimGroups)
-                    if (group.ValueIndex == 0)
-                        values.Add(group.Name);
+                {
+                    if (TryGetGroupStringName(group, out string groupName))
+                        values.Add(groupName);
+                }
                 values.Add(anim.Name);
             }
             return values;
@@ -386,7 +412,7 @@ namespace MPLibrary.GCN
                 var tracks = Animations[i].GetAllTracks();
                 foreach (var track in tracks)
                 {
-                    string name = track.ParentGroup.Name;
+                    bool hasGroupName = TryGetGroupStringName(track.ParentGroup, out string groupName);
                     var interpolation = ConvertType(track.InterpolationType);
 
                     writer.Write((byte)track.TrackMode);
@@ -394,7 +420,7 @@ namespace MPLibrary.GCN
                     if (track.TrackMode ==  TrackMode.Normal || 
                         track.TrackMode == TrackMode.Material || 
                         track.TrackMode == TrackMode.Object)
-                        writer.Write((short)header.GetStringOffset(name));
+                        writer.Write(hasGroupName ? (short)header.GetStringOffset(groupName) : (short)-1);
                     else
                         writer.Write(ushort.MaxValue);
                     writer.Write((short)track.ValueIdx);

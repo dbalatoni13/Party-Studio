@@ -230,6 +230,7 @@ namespace PartyStudio.GCN
                 DrawText("ColorIndex", $"{ObjectData.ColorIndex}");
                 DrawText("CenvIndex", $"{ObjectData.CenvIndex}");
                 DrawText("CenvCount", $"{ObjectData.CenvCount}");
+                DrawText("ClusterCount", $"{ObjectData.CluserCount}");
                 DrawText("ClusterPositionsOffset", $"{ObjectData.ClusterPositionsOffset}");
                 DrawText("ClusterNormalsOffset", $"{ObjectData.ClusterNormalsOffset}");
                 DrawText("SymbolIndex", $"{ObjectData.SymbolIndex}");

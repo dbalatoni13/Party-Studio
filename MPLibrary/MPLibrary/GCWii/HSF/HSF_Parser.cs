@@ -717,6 +717,20 @@ namespace MPLibrary.GCN
                     obj.InvertedBindPose = OpenTK.Matrix4.Invert(obj.CalculateWorldMatrix());
             }
 
+            foreach (var obj in objects)
+            {
+                if (obj.Data.Type == ObjectType.Mesh)
+                {
+                    for (int i = 0; i < obj.Data.CluserCount; i++)
+                    {
+                        // TODO is this right for multiple clusters?
+                        var clusterIndex = SymbolData.SymbolIndices[obj.Data.CluserSymbolIndex] + i;
+                        var cluster = ClusterData.Clusters[clusterIndex];
+                        obj.ClusterData.Add(cluster);
+                    }
+                }
+            }
+
             ObjectNodes.AddRange(objects);
 
             List<TextureAttribute> attributes = new List<TextureAttribute>();
@@ -963,6 +977,10 @@ namespace MPLibrary.GCN
 
             foreach (var obj in this.ObjectNodes)
             {
+                if (obj.Name == "envelope3")
+                {
+                    var asd = 2;
+                }
                 if (obj.HasHierachy())
                 {
                     obj.Data.ParentIndex = -1;

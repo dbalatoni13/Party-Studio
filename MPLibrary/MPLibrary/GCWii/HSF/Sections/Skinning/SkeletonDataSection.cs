@@ -36,7 +36,8 @@ namespace MPLibrary.GCN
         {
             for (int i = 0; i < Nodes.Count; i++)
             {
-                writer.Write(header.GetStringOffset(Nodes[i].Name));
+                var offset = header.GetStringOffset(Nodes[i].Name);
+                writer.Write(offset);
                 writer.WriteStruct(Nodes[i].Transform);
             }
         }

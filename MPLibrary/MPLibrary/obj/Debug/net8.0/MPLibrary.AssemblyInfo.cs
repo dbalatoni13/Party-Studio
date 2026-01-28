@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MPLibrary")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c99e5638d6a619e72942059ad5687ff114eda3db")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e1d767d32f8b8b3782b5bd44b39db75f282f7782")]
 [assembly: System.Reflection.AssemblyProductAttribute("MPLibrary")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MPLibrary")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -86,7 +86,7 @@ namespace MPLibrary.GCN
             writer.Write(NodeMatrices.Count);
             writer.Write(0);
 
-            writer.SetByteOrder(true); // TODO why is this switched?
+            writer.SetByteOrder(false); // TODO why is this false-true normally?
 
             for (int i = 0; i < MeshMatrices.Count; i++)
                 writer.WriteStruct(MeshMatrices[i]);
